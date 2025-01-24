@@ -1,0 +1,73 @@
+body{
+    color: red;
+}
+table{
+    margin-left: 500px;    
+}
+td{ 
+    border: 2px solid red ;
+    color: red;  
+}
+tr{
+    border: 5px solid red ;
+    color: black;
+}
+.ped{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding: 20px;
+    padding-right: 10px;
+    padding-left: 40px;
+    
+}
+.rad{
+    padding: 0px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}
+.ddd{
+    border: 5px solid blue;
+    background-color: orange;
+    color: orange;
+    width: 124px;
+    height: 124px;
+    padding-top: 0;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}
+.pad{
+    padding: 60px;
+    padding-left: 40px;
+}
+.shadow1{
+    border-radius: 20px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px ; 
+}
+.shadow2{
+    border-radius: 0px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px ; 
+}
+.shadow3{
+    border-radius: 20px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px inset ; 
+}
+.shadow4{
+    border-radius: 0px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px inset ; 
+}
+.shadow5{
+    border-radius: 20px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px 0 14px ; 
+}
+.shadow6{
+    border-radius: 0px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px 0 14px ; 
+}
+.shadow7{
+    border-radius: 20px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px 0 14px inset ; 
+}
+.shadow8{
+    border-radius: 0px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px 0 14px inset ; 
+}
