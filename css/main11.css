@@ -1,0 +1,427 @@
+body{
+    background-color: #a52a2a;
+    position: relative;
+}
+.bosh{
+    position: absolute;
+    position: relative;
+    border: 1px solid rgb(232, 231, 231);
+    width: 350px;
+    height: 400px;
+    background-color: rgb(232, 231, 231);    
+    border-radius: 45%;
+    margin: 500px;
+    margin-top: 200px;
+    box-shadow: 0 0 20px rgba(188, 188, 188, 0.3);
+    z-index: ; 
+}
+.koz{
+    
+    border: 1px solid white;
+    width: 85px;
+    height: 100px;
+    background-color: white;
+    margin-top: 100px;
+    border-radius: 50%;
+    margin-left: 70px;
+    animation-name: tttt;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    
+}
+.koz1{
+    border: 1px solid white;
+    width: 85px;
+    height: 100px;
+    background-color: white;
+    margin-top: -100px;
+    border-radius: 50%;
+    margin-left: 190px;
+    z-index: -1;
+    animation-name: tttt;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+.qora{
+    border: 1px solid black;
+    width: 45px;
+    height: 45px;
+    background-color: black;
+    margin-top: 40px;
+    border-radius: 50%;
+    margin-left: 30px;
+    z-index: ;
+    animation-name: kozlar;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+.qora1{
+    border: 1px solid black;
+    width: 45px;
+    height: 45px;
+    background-color: black;
+    margin-top: 40px;
+    border-radius: 50%;
+    margin-left: 10px;
+    z-index: ;
+    animation-name: kozlar;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+.oq{
+    border: 1px solid white;
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    margin-top: 4px;
+    border-radius: 50%;
+    margin-left: 4px;
+    z-index: ; 
+    
+}
+.oq1{
+    border: 1px solid white;
+    width: 2px;
+    height: 2px;
+    background-color: white;
+    margin-top: 4px;
+    border-radius: 50%;
+    margin-left: 4px;
+    z-index: ; 
+}
+.quloq{
+    position: absolute;
+    border: 1px solid black;
+    width: 100px;
+    height: 140px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: -180px;
+    margin-left: -40px;
+    transform: rotate(25deg);
+    z-index: -1;
+    box-shadow: 0 0 20px rgba(188, 188, 188, 0.3);
+    animation-name: tttt;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    
+}
+.quloq1{
+    position: absolute;
+    border: 1px solid black;
+    width: 100px;
+    height: 140px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: -180px;
+    margin-left: 280px;
+    transform: rotate(-25deg);
+    z-index: -10;
+    box-shadow: 0 0 20px rgba(188, 188, 188, 0.3);
+    animation-name: tttt;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+.lab{
+    margin-top: -30px;
+    width: 190px;
+    height: 260px;
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 40%;
+    border-top-left-radius: 60%;
+    border-top-right-radius: 40%;
+    border-bottom-right-radius: 40%;
+    box-shadow: 0 0 20px rgba(255, 254, 254, 0.3);
+    z-index: ;
+    animation-name: zafar;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+.lab1{
+    width: 190px;
+    height: 260px;
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 40%;
+    border-top-left-radius: 40%;
+    border-top-right-radius: 60%;
+    border-bottom-left-radius: 40%;
+    margin-left: 160px;
+    margin-top: -260px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+    z-index: ;
+    animation-name: zafar;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+.til{
+    position: absolute;
+    width: 40px;
+    height: 110px;        
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 35%;
+    margin-left: 155px;
+    margin-top: -70px;
+    z-index: -1; 
+    box-shadow: 0 0 20px rgba(188, 188, 188, 0.3);
+    animation-name: til;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+.burun{
+    width: 120px;
+    height: 90px;
+    position: absolute;        
+    border: 1px solid black;
+    background-color: black;
+    margin-left: 110px;
+    margin-top: -270px;
+    border-top-left-radius: 60%;
+    border-top-right-radius: 60%;
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+    animation-name: burun;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+.tana{
+    position: absolute;
+    width: 300px;
+    height: 350px;
+    border: 1px solid rgb(232, 231, 231);
+    background-color: rgb(232, 231, 231);
+    margin-top: -130px;
+    margin-left: 20px;
+    z-index:-3;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius:45%;
+    border-bottom-right-radius: 45%;
+    box-shadow: 0 0 20px rgba(188, 188, 188, 0.3);
+}
+.oyoq{
+    width: 150px;
+    height: 80px;
+    border: 1px solid rgb(232, 231, 231);
+    background-color: rgb(232, 231, 231);
+    box-shadow: 0 0 20px rgba(188, 188, 188, 0.3);
+    margin-top: 160px;
+    margin-left: -10px;
+    border-top-left-radius: 40%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius:40%;
+    border-bottom-right-radius: 45%;
+    z-index: -10;
+    animation-name: oyoq1;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+.oyoq1{
+    width: 150px;
+    height: 80px;
+    border: 1px solid rgb(232, 231, 231);
+    background-color: rgb(232, 231, 231);
+    box-shadow: 0 0 20px rgba(188, 188, 188, 0.3);
+    margin-top: -80px;
+    margin-left: 190px;
+    border-top-left-radius: 40%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius:40%;
+    border-bottom-right-radius: 45%;
+    z-index: -10;
+    animation-name: oyoq2;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+.dum{
+    width: 200px;
+    height: 20px;
+    border: 1px solid rgb(232, 231, 231);
+    background-color: rgb(232, 231, 231);
+    box-shadow: 0 0 20px rgba(188, 188, 188, 0.3);
+    border-top-left-radius: 40%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius:40%;
+    border-bottom-right-radius: 45%;
+    margin-left: 250px;
+    margin-top: -70px;
+    animation-name: zafar1;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+.tna{
+    position: absolute;
+    width: 110px;
+    height: 120px;
+    border: 1px solid rgb(232, 231, 231);
+    background-color: rgb(232, 231, 231);
+    margin-top: -160px;
+    margin-left: 20px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius:45%;
+    border-bottom-right-radius: 45%;
+    box-shadow: 0 0 50px 10px rgba(115, 114, 114, 0.3) inset;
+    margin-left: 115px;
+}
+@keyframes tttt{
+    0%{
+        transform: translate(0px, 0px )
+    }
+    25%{
+        transform: translate(0px, 5px)
+    }
+    50%{
+        transform: translate(0px,15px) 
+    }
+    75%{
+        transform: translate(0px, 5px) 
+    }
+    100%{
+        transform: translate(0px, 00px)
+    }
+}
+@keyframes zafar{
+    0%{
+        transform: translate(0px, 0px ) 
+    }
+    25%{
+        transform: translate(2px, 0px)rotateX(25deg) 
+    }
+    50%{
+        transform: translate(5px, 0px) rotateX(-25deg) 
+    }
+    75%{
+        transform: translate(2px, 0px) 
+    }
+    100%{
+        transform: translate(0px, 0px)
+    }
+}
+@keyframes zafar1{
+    0%{
+        transform:  translate(0px, 0 )
+    }
+    25%{
+        transform: translate(-20px, 0 )
+    }
+    50%{
+        transform: translate(-40px, 0 )
+    }
+    75%{
+        transform: translate(-20px, 0 )
+    }
+    100%{
+        transform: translate(0px, 0px)
+    }
+}
+@keyframes  kozlar{
+    0%{
+        transform: translate(0px, 0 )
+    }
+    25%{
+        transform: translate(-10px, 0 )
+    }
+    50%{
+        transform: translate(-20px, 0 )
+    }
+    75%{
+        transform: translate(-10px, 0 )
+    }
+    100%{
+        transform: translate(0px, 0px)
+    }
+}
+@keyframes  burun{
+    0%{
+        transform: rotateZ(0deg)
+    }
+    25%{
+        transform: rotateZ(-5deg)
+    }
+    50%{
+        transform: rotateZ(10deg)
+    }
+    60%{
+        transform: rotateZ(5deg)
+    }
+    75%{
+        transform: rotateZ(5deg)
+    }
+    80%{
+        transform: rotateZ(5deg)
+    }
+    100%{
+        transform: rotateZ(0deg)
+    }
+}
+@keyframes  oyoq1{
+    0%{
+        transform: rotate(-10deg)
+    }
+    25%{
+        transform: rotate(-20deg)
+    }
+    50%{
+        transform: rotate(-30deg)
+    }
+    75%{
+        transform: rotate(-20deg)
+    }
+    100%{
+        transform: rotate(-10deg)
+    }
+}
+@keyframes  oyoq2{
+    0%{
+        transform: rotate(10deg)
+    }
+    25%{
+        transform: rotate(20deg)
+    }
+    50%{
+        transform: rotate(30deg)
+    }
+    75%{
+        transform: rotate(20deg)
+    }
+    100%{
+        transform: rotate(10deg)
+    }
+}
+
+@keyframes  til{
+    0%{
+        transform: translate(0px, 0 )
+    }
+    25%{
+        transform: translate(0, -10px )
+    }
+    50%{
+        transform: translate(0, -20px )
+    }
+    75%{
+        transform: translate(0,-10px )
+    }
+    100%{
+        transform: translate(0px, 0px)
+    }
+}
+
+

@@ -1,0 +1,81 @@
+.box{
+    width: 1700px;
+    margin: 200px;
+    margin-left: 600px;
+    float: left;
+}
+.qush{
+    background-color: white;
+    border: 1px solid black;
+    width: 250px;
+    height: 600px;
+    float: left;
+    position: absolute;
+    z-index: -2;
+    transform: rotate(-15deg);
+    margin-top: 60px;
+}
+.tulki{
+    background-color: white;
+    border: 1px solid black;
+    width: 250px;
+    height: 600px;
+    float: left;
+    margin-left: 40px;
+    position: absolute;
+    margin-left: 150px;
+    z-index: -1;
+    transform: rotate(-7deg);
+    margin-top: 30px;
+}
+.it{
+    background-color: white;
+    border: 1px solid black;
+    width: 250px;
+    height: 600px;
+    float: left;
+    margin-left: 300px;
+    position: absolute;
+    z-index: ;
+    margin-top: 10px;
+}
+.pingvin{
+    background-color: white;
+    border: 1px solid black;
+    width: 250px;
+    height: 600px;
+    float: left;
+    margin-left: 450px;
+    position: absolute;
+    z-index: -1;
+    transform: rotate(7deg);
+    margin-top: 30px;
+    
+}
+.lev{
+    background-color: white;
+    border: 1px solid black;
+    width: 250px;
+    height: 600px;
+    float: left;
+    margin-left: 600px;
+    position: absolute;
+    z-index: -2;
+    transform: rotate(15deg);
+    margin-top: 60px;
+}
+img{
+    width: 175px;
+    height: 175px;
+    text-align: center;
+    margin-left: 45px;
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    margin: 15px;
+    margin-left: 30px;
+}
